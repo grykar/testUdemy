@@ -1,2 +1,1 @@
-# testUdemy
-na potrzeby kursu
+# paragon z warzywniaka
